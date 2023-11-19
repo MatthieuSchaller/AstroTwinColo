@@ -2,7 +2,9 @@
 
 # Summer school
 
-This github repository is for the N-body cosmological simulations session of the Precise Summer School in Warsaw. Each of the three sessions have their own directory (Session 1, 2 and 3), each with a jupyter notebook that should be used for the interactive part of each session. Each jupyter notebook contains all of the necessary information and instructions for the given session.
+This github repository is for the N-body cosmological simulations session of the Precise Summer School in Warsaw. It is based on the original version by Shaun Brown created for a workshop in Warsaw in the summer of 2023.
+
+Each of the three sessions have their own directory (Session 1, 2 and 3), each with a jupyter notebook that should be used for the interactive part of each session. Each jupyter notebook contains all of the necessary information and instructions for the given session.
 
 ## Installation and requirements
 
