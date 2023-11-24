@@ -70,13 +70,13 @@ There are a number of larger simulations that are used in Session 3. Depending o
 
 For all simulations (~ 16 Gb) you can download them with the following commands
 ```
-wget -c https://virgodb.cosma.dur.ac.uk/public/dc-brow5/Summer_school/simulations/All_sims.tar.gz
+wget -c https://swift.strw.leidenuniv.nl/temp/All_sims.tar.gz
 tar -xzvf All_sims.tar.gz
 ```
 
 Alternatively, if you only want to download the DM only simulations (~ 5 Gb) then do the following
 ```
-wget -c https://virgodb.cosma.dur.ac.uk/public/dc-brow5/Summer_school/simulations/DMONLY_simulations.tar.gz
+wget -c https://swift.strw.leidenuniv.nl/temp/DMONLY_simulations.tar.gz
 tar -xzvf DMONLY_simulations.tar.gz
 ```
 
